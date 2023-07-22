@@ -467,12 +467,21 @@ img{
   width: 80%;
 }
 .skills__js{
+  width: 70%;
+}
+.skills__jq{
   width: 60%;
+}
+.skills__php{
+  width: 75%;
 }
 .skills__libraries{
   width: 85%;
 }
 .skills__algo{
+  width: 90%;
+}
+.skills__deep{
   width: 90%;
 }
 .skills__cv{
